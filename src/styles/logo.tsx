@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { LogoIconProps } from "../components/logo/logo.interface";
 
-export const LogoWrap = styled.div`
+export const LogoWrapper = styled.div`
   float: left;
   margin: 2%;
   margin-bottom: 0;

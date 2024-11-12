@@ -4,6 +4,7 @@ export const ContactsWrapper = styled.div`
   margin-left: 10%;
   margin-right: 10%;
   padding-top: 5%;
+  text-align: left;
 `;
 
 export const LogoBox = styled.div`
@@ -12,3 +13,5 @@ export const LogoBox = styled.div`
   margin: 0;
   padding: 0;
 `;
+
+export const ContactsTitle = styled.h1``;

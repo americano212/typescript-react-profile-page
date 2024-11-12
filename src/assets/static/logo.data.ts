@@ -31,11 +31,20 @@ export const logoData: LogoProps[] = [
     isDisplay: false
   },
   {
-    name: "Mail",
+    name: "me",
     filePath: "images/gmail.svg",
     link: "#",
     backgroundColor: "#EA4335",
-    handle: ""
+    handle: "@dongjun.me",
+    isDisplay: true
+  },
+  {
+    name: "LinkedIn",
+    filePath: "images/linkedin.svg",
+    link: "https://www.linkedin.com/in/americano212/",
+    backgroundColor: "#0077B5",
+    handle: "americano212",
+    paddingTop: "25px",
   },
   {
     name: "Kakao Talk",
@@ -61,13 +70,5 @@ export const logoData: LogoProps[] = [
     handle: "americano212",
     imageSize: 100,
     paddingTop: "0px",
-  },
-  {
-    name: "LinkedIn",
-    filePath: "images/linkedin.svg",
-    link: "https://www.linkedin.com/in/americano212/",
-    backgroundColor: "#0077B5",
-    handle: "americano212",
-    paddingTop: "25px",
   },
 ]

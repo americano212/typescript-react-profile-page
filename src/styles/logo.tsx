@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { LogoIconProps } from "../components/logo/logo.interface";
+import { LogoIconProps } from "../types/logo.interface";
 
 export const LogoWrapper = styled.div`
   display: inline-block;

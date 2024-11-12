@@ -1,5 +1,5 @@
 import { LogoIcon, LogoName, LogoWrapper } from "../../styles/logo";
-import { LogoProps } from "./logo.interface";
+import { LogoProps } from "../../types/logo.interface";
 
 export default function Logo(props: LogoProps) {
   return (

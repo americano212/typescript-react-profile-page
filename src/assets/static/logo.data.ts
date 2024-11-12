@@ -1,4 +1,4 @@
-import { LogoProps } from "../../components/logo/logo.interface";
+import { LogoProps } from "../../types/logo.interface";
 
 export const logoData: LogoProps[] = [
   {

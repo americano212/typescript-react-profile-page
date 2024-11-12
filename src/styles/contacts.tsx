@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ContactsWrapper = styled.div`
   margin-left: 10%;
   margin-right: 10%;
-  padding-top: 5%;
+  padding-top: 15%;
   text-align: left;
 `;
 

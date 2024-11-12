@@ -41,7 +41,7 @@ export const logoData: LogoProps[] = [
   {
     name: "LinkedIn",
     filePath: "images/linkedin.svg",
-    link: "https://www.linkedin.com/in/americano212/",
+    link: "https://www.linkedin.com/in/americano212",
     backgroundColor: "#0077B5",
     handle: "americano212",
     paddingTop: "25px",
@@ -65,7 +65,7 @@ export const logoData: LogoProps[] = [
   {
     name: "Baekjoon",
     filePath: "images/boj.svg",
-    link: "https://www.acmicpc.net/user/wq0212",
+    link: "https://www.acmicpc.net/user/americano212",
     backgroundColor: "#0077C1",
     handle: "americano212",
     imageSize: 100,

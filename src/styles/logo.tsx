@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { LogoIconProps } from "../components/logo/logo.interface";
 
 export const LogoWrapper = styled.div`
-  float: left;
+  display: inline-block;
   margin: 2%;
   margin-bottom: 0;
   width: 100px;
@@ -17,4 +17,8 @@ export const LogoIcon = styled.div<LogoIconProps>`
   box-shadow: 10px 10px 10px gray;
 `;
 
-export const LogoName = styled.p``;
+export const LogoName = styled.p`
+  @media (max-width: 600px) {
+    display: none;
+  }
+`;

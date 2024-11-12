@@ -9,7 +9,6 @@ export const ContactsWrapper = styled.div`
 
 export const LogoBox = styled.div`
   width: 100%;
-  height: 250px;
   margin: 0;
   padding: 0;
 `;

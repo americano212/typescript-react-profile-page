@@ -3,28 +3,28 @@ import { LogoProps } from "../../components/logo/logo.interface";
 export const logoData: LogoProps[] = [
   {
     name: "Instagram",
-    filePath: "img/icon/instagram.svg",
+    filePath: "images/instagram.svg",
     link: "https://www.instagram.com/dongjun0212/?hl=ko",
     backgroundColor: "#C13584",
     handle: "dongjun0212"
   },
   {
     name: "Blog",
-    filePath: "img/icon/blog.svg",
+    filePath: "images/blog.svg",
     link: "https://pypystory.tistory.com/",
     backgroundColor: "#eb531f",
     handle: "PyPyStory"
   },
   {
     name: "Github",
-    filePath: "img/icon/github.svg",
+    filePath: "images/github.svg",
     link: "https://github.com/americano212",
     backgroundColor: "#333",
     handle: "americano212"
   },
   {
     name: "Youtube",
-    filePath: "img/icon/youtube.svg",
+    filePath: "images/youtube.svg",
     link: "https://www.youtube.com/channel/UCXgIxJNWOp3E6RfYcUuaH3g",
     backgroundColor: "#FF0000",
     handle: "PyPyStory",
@@ -32,21 +32,21 @@ export const logoData: LogoProps[] = [
   },
   {
     name: "Mail",
-    filePath: "img/icon/gmail.svg",
+    filePath: "images/gmail.svg",
     link: "#",
     backgroundColor: "#EA4335",
-    handle: "me@dongjun.me"
+    handle: ""
   },
   {
     name: "Kakao Talk",
-    filePath: "img/icon/kakao.svg",
+    filePath: "images/kakao.svg",
     link: "https://open.kakao.com/o/skoddvae",
     backgroundColor: "#FFE812",
     handle: "Open Talk",
   },
   {
     name: "Solved AC",
-    filePath: "img/icon/solvedac.svg",
+    filePath: "images/solvedac.svg",
     link: "https://solved.ac/profile/americano212",
     backgroundColor: "#17CE3A",
     handle: "americano212",
@@ -55,7 +55,7 @@ export const logoData: LogoProps[] = [
   },
   {
     name: "Baekjoon",
-    filePath: "img/icon/boj.svg",
+    filePath: "images/boj.svg",
     link: "https://www.acmicpc.net/user/wq0212",
     backgroundColor: "#0077C1",
     handle: "americano212",
@@ -64,7 +64,7 @@ export const logoData: LogoProps[] = [
   },
   {
     name: "LinkedIn",
-    filePath: "img/icon/linkedin.svg",
+    filePath: "images/linkedin.svg",
     link: "https://www.linkedin.com/in/americano212/",
     backgroundColor: "#0077B5",
     handle: "americano212",

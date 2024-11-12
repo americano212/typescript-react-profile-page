@@ -9,10 +9,8 @@ export const LogoWrapper = styled.div`
 
 export const LogoIcon = styled.div<LogoIconProps>`
   border-radius: 30px;
-  width: 100px;
-  height: 100px;
   text-align: center;
-  padding-top: ${(props) => props.paddingTop || "22px"};
+  padding: ${(props) => props.paddingTop || "22px"};
   margin-bottom: 10px;
   background: ${(props) => props.backgroundColor || "black"};
   box-shadow: 10px 10px 10px gray;
